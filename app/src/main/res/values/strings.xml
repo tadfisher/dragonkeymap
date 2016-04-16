@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pixel C Programming Layouts</string>
+    <string name="keyboard_layouts_label">Programming layouts</string>
+    <string name="keyboard_layout_english_us_emacs_label">English (US Emacs)</string>
+</resources>
